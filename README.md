@@ -1,6 +1,4 @@
-Minecraft-Needs-Blood
+AutoDoors
 =====================
 
-Bukkit: http://dev.bukkit.org/bukkit-plugins/minecraft-needs-blood/
-
-This is a plugin which simply adds blood to Minecraft, enjoy!
+Coming Soon To Bukkit!
