@@ -1,0 +1,4 @@
+name: AutoDoors
+description: Doors which... Close Automatically!
+main: com.connorlinfoot.autodoors.Main
+version: 1.0
